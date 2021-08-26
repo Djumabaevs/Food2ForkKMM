@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "553584F418BBCD4FAA719F9D69889CBB"
-               BuildableName = "Pods-iosFoodKMM.framework"
+               BuildableName = "Pods_iosFoodKMM.framework"
                BlueprintName = "Pods-iosFoodKMM"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
