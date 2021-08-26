@@ -1,0 +1,6 @@
+framework module Pods_iosFoodKMM {
+  umbrella header "Pods-iosFoodKMM-umbrella.h"
+
+  export *
+  module * { export * }
+}
