@@ -1,4 +1,4 @@
-plugins {
+    plugins {
     id(Plugins.androidApplication)
     kotlin(KotlinPlugins.android)
     kotlin(KotlinPlugins.kapt)
