@@ -12,7 +12,6 @@ fun Navigation() {
     NavHost(navController = navController, startDestination = Screen.RecipeList.route) {
         composable(route = Screen.RecipeList.route) {navBackStackEntry ->
 
-
         }
     }
 }
